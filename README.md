@@ -1,0 +1,1 @@
+### SQL scripts for the lab assignments I did in my DBMS classes
